@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Workout</string>
+
+    <string name="work">WORK</string>
+    <string name="out">OUT</string>
+
+    <string name="begin">Begin</string>
+    <string name="rest">REST :)</string>
+
+    <string name="done">Done</string>
+    <string name="rest_time">Rest</string>
+
+    <string name="today_workout">Today\'s Workout</string>
+    <string name="do_it">Let\'s Do It!</string>
+
+    <string name="cur_workout_key">cur_workout</string>
+    <string name="next_day_key">next_day</string>
+
+    <string name="you_done">You\'re Done!</string>
+    <string name="almost_done">Almost Done</string>
+</resources>
